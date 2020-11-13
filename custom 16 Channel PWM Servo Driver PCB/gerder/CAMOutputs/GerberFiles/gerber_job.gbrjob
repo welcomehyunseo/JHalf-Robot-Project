@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-13T15:01:15Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Adafruit PCA9685 rev C"
+        },
+        "Owner": "Sapa01050071 Sapa01050071 <sapa01050071@gmail.com>",
+        "Size": {
+            "X": 65,
+            "Y": 56
+        }
+    }
+}
